@@ -214,7 +214,3 @@ The dashboard is built in **Microsoft Power BI** and covers:
 - 📅 **Middle-aged and Adult** segments contributed the largest share of total revenue.
 
 ---
-
-
-
-*Dataset downloaded from a tutorial video — original source unknown. This project is for portfolio and educational purposes.*
